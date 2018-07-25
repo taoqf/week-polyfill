@@ -1,0 +1,19 @@
+{
+  "name": "week-polyfill",
+  "version": "1.0.0",
+  "description": "This is a polyfill for implementing the HTML5 `<input type=\"week\">` element in browsers that do not currently support it.",
+  "main": "week-polyfill.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoqf/week-polyfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoqf/week-polyfill/issues"
+  },
+  "homepage": "https://github.com/taoqf/week-polyfill#readme"
+}
